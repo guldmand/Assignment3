@@ -2,7 +2,7 @@
 https://www.kaggle.com/competitions/assignment-3-cnn-classification-fall2025/
 
 # Versions
-- **Example_original.ipynb** is the final code from the closing of the competition deadline  
+- **Example_original.ipynb** is the final code from the closing of the competition deadline (after doing efficientnetv2_b2, we moved on to efficientnetv2_b3 this is seen in this code)  
 - **Example.ipynb** is the google colab recreated code of the best submission (efficientnetv2_b2)  
 - **.env** is where you specify w&b team, API Key and project  
 
