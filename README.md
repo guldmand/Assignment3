@@ -4,9 +4,9 @@
 https://www.kaggle.com/competitions/assignment-3-cnn-classification-fall2025/
 
 # Versions
-- **Example_original.ipynb** is the final code from the closing of the competition deadline (after finishing EfficientNetV2-B2, we moved on to efficientnetv2_b3 this can be seen in this file)  
-- **Example.ipynb** is the Google Colab–recreated version of the best submission (efficientnetv2_b2)  
-- **.env** is where you specify W&B team, API Key and project. The team name can be a little tricky to find!  
+- **Example_original.ipynb** is the final code from the closing of the competition deadline (after finishing EfficientNetV2-B2, we moved on to EfficientNetV2-B3 this can be seen in this file)  
+- **Example.ipynb** is the Google Colab–recreated version of the best submission (EfficientNetV2-B2)  
+- **.env** is where you specify W&B team, API key and project. The team name can be a little tricky to find!  
 
 *Note: Some code blocks appear twice. This was necessary to make the notebook run correctly in Google Colab. For example, saving plots to a folder had to be modified slightly to work on Colab.*  
 
