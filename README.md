@@ -1,6 +1,6 @@
 <img src="img/overfitters.png" alt="The Overfitters logo" style="height: 400px; width: auto;"/>
 
-# Assignment3
+# Assignment 3: CNN Classification
 https://www.kaggle.com/competitions/assignment-3-cnn-classification-fall2025/
 
 # Versions
