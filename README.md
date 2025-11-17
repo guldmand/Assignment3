@@ -1,4 +1,4 @@
-<img src="img/overfitters.png" alt="The Overfitters logo" />
+<img src="img/overfitters.png" alt="The Overfitters logo" style="height: 400px; width: auto;"/>
 
 # Assignment3
 https://www.kaggle.com/competitions/assignment-3-cnn-classification-fall2025/
