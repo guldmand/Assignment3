@@ -8,7 +8,7 @@ https://www.kaggle.com/competitions/assignment-3-cnn-classification-fall2025/
 *Note: Please note that some parts are code blocks doubble. This was in order to make it working when running on google colab. for example, the saving of plots to a folder had to be change a bit to work on colab.*  
 
 # Usage  
-I would recoomend just clear all existing cell outputs and running the file again.  
+I would recommend you to just clear all existing cell outputs and then running the file again from top to bottom.  
 
 # Relevant Papers  
 
